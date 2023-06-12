@@ -1,2 +1,7 @@
 # GISAnalysis_BankBranches
-This repository contains my deliverable for a GIS analysis task in a GIS Analysis course.
+Course: GIS Application | UW-Madison<br>
+Instructor: A-Xing Zhu<br>
+Teaching Assistant: Yuying Chen<br>
+Software: QGIS<br>
+
+## Description
